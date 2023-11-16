@@ -1,0 +1,83 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl EXTR_Black
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Black_BaseColor.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Black_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Black_Metalness.png
+
+newmtl EXTR_Body
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Body_BaseColor.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Body_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Body_Metalness.png
+
+newmtl EXTR_Chrome
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Chrome_BaseColor.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Chrome_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Chrome_Metalness.png
+map_Bump -bm 1.000000 /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Chrome_Normal.png
+
+newmtl EXTR_Farcic
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Farcic_BaseColor.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Farcic_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Farcic_Metalness.png
+map_Bump -bm 1.000000 /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Farcic_Normal.png
+
+newmtl EXTR_Glass
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Glass_BaseColor.png
+map_Ks /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Glass_Specular.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Glass_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Glass_Metalness.png
+map_d /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Glass_Opacity.png
+
+newmtl EXTR_Metal
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Metal_BaseColor.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Metal_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Metal_Metalness.png
+map_Bump -bm 1.000000 /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Metal_Normal.png
+
+newmtl EXTR_Rubber
+Ka 0.500000 0.500000 0.500000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Rubber_BaseColor.png
+map_Ns /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Rubber_Roughness.png
+map_refl /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Rubber_Metalness.png
+map_Bump -bm 1.000000 /Users/VMM/Desktop/repos/CompGraphs/3DTest/sourceimages/Texture/EXTR/EXTR_Rubber_Normal.png
