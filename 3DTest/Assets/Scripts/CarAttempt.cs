@@ -85,7 +85,7 @@ public class CarAttempt : MonoBehaviour
         mesh.vertices = newVertices;
         mesh.RecalculateNormals();
 
-        Matrix4x4 rotateWheel = HW_Transforms.RotateMat(rotationAngle, AXIS.X);
+        Matrix4x4 rotateWheel = HW_Transforms.RotateMat(rotationAngle * Time.time, AXIS.X);
 
         for (int i = 0; i < 4; i++)
         {
